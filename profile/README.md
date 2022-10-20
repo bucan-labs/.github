@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/bucan-labs/.github/blob/main/assets/logo-dark.png?raw=true#gh-dark-mode-only" alt="Dark Mode Logo" />
-  <img src="https://github.com/bucan-labs/.github/blob/main/assets/logo-light.png?raw=true#gh-light-mode-only" alt="Light Mode Logo" />
+  <img src="https://github.com/bucan-labs/.github/raw/main/assets/logo-dark.png?raw=true#gh-dark-mode-only" alt="Dark Mode Logo" />
+  <img src="https://raw.githubusercontent.com/bucan-labs/.github/main/assets/logo-light.png#gh-light-mode-only" alt="Light Mode Logo" />
 </p>
 
 <hr />
